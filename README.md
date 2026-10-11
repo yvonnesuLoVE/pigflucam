@@ -34,5 +34,5 @@ The findings reveal extensive exposure of pigs to multiple influenza A virus lin
 ## Citation
 If you use this repository in your research, please cite:
 
-**Wong, F.Y., Cronin, P., Zhang, R., Hidano, A., Siegers, J.Y., Low, D.H., Holt, H., Leung, W., Koeut, D., Seng, B. and Chao, S., 2026. Multiplex serological profiling reveals diverse avian and mammalian influenza A virus exposure in swine. Iscience, 29(5).**
+**Wong, F.Y., Cronin, P., Zhang, R., Hidano, A., Siegers, J.Y., Low, D.H.W., Holt, H., Leung, W., Koeut, D., Seng, B., Chao, S., Chhay, T., Tum, S., Sorn, S., Chou, M., Bun, K., Y, P., Heng, L., Mah, M.G., Ng, G.G.K., Li, J., Auerswald, H., Zeller, M.A., Webby, R.J., Karlsson, E.A., Rudge, J.W., Smith, G.J.D. and Su, Y.C.F., 2026. Multiplex serological profiling reveals diverse avian and mammalian influenza A virus exposure in swine. Iscience, 29(5).**
 
